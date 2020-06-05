@@ -4,7 +4,7 @@ Pull down to refresh component for React Native, Automatically adapt to height l
 
 ## Screenshot
 
-<img src="https://s1.ax1x.com/2020/06/05/tr2Jns.gif" height = "500" alt="screenshot" align=center />
+<img src="https://raw.githubusercontent.com/TokisakiYuu/react-native-pull-refresh/master/example/screenshot/Screenshot-2020-06-05-16-02-20-138.gif" height = "500" alt="screenshot" align=center />
 
 ## Installation
 
