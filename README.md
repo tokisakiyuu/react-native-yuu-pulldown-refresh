@@ -20,8 +20,6 @@ or using yarn:
 yarn add react-native-yuu-pulldown-refresh
 ```
 
-Then follow the instructions for your platform to link react-native-video into your project:
-
 ## Usage
 
 ```javascript
