@@ -1,4 +1,4 @@
-## react-native-pull-down-refresh
+## react-native-pulldown-refresh
 
 Pull down to refresh component for React Native, Automatically adapt to height like a normal View Tag.
 
@@ -11,13 +11,13 @@ Pull down to refresh component for React Native, Automatically adapt to height l
 Using npm:
 
 ```shell
-npm install --save react-native-pull-refresh
+npm install --save react-native-pulldown-refresh
 ```
 
 or using yarn:
 
 ```shell
-yarn add react-native-pull-refresh
+yarn add react-native-pulldown-refresh
 ```
 
 Then follow the instructions for your platform to link react-native-video into your project:
@@ -27,7 +27,7 @@ Then follow the instructions for your platform to link react-native-video into y
 ```javascript
 // Load the module
 
-import PullRefreshView from 'react-native-pull-refresh';
+import PullRefreshView from 'react-native-pulldown-refresh';
 
 // please use component state variable on `refreshing` prop
 

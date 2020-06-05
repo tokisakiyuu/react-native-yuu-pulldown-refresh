@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pull-down-refresh",
+  "name": "react-native-yuu-pulldown-refresh",
   "title": "React Native Pull Down Refresh",
   "version": "1.0.0",
   "description": "TODO",
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-pull-refresh.git",
-    "baseUrl": "https://github.com/github_account/react-native-pull-refresh"
+    "url": "git+https://github.com/TokisakiYuu/react-native-pulldown-refresh.git",
+    "baseUrl": "https://github.com/TokisakiYuu/react-native-pulldown-refresh"
   },
   "keywords": [
     "react-native"
