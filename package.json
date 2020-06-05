@@ -1,6 +1,6 @@
 {
-  "name": "react-native-pull-refresh",
-  "title": "React Native Pull Refresh",
+  "name": "react-native-pull-down-refresh",
+  "title": "React Native Pull Down Refresh",
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
@@ -23,8 +23,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "TokisakiYuu",
+    "email": "tokisakiyuu@qq.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",

@@ -1,4 +1,4 @@
-## react-native-pull-refresh
+## react-native-pull-down-refresh
 
 Pull down to refresh component for React Native, Automatically adapt to height like a normal View Tag.
 
